@@ -1,5 +1,5 @@
-## RizkaSimi-BOT
-
+# RizkaSimi-BOT
+SIMI BOT WHATSAPP menggunakan modul -> @open-wa/wa-automate
 
 ## Clone project
 
