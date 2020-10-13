@@ -36,4 +36,4 @@
 * [`TSEL`](6285314240519)
 
 ### Jika ada yang ditanyakan chat Nomor saya :
-* [`click here`](https://wa.me/6285314240519)
+* [`click`](https://wa.me/6285314240519)
