@@ -30,6 +30,7 @@ SIMI BOT WHATSAPP menggunakan modul -> @open-wa/wa-automate
 
 ## Matur nuwun :
 * [`open-wa/wa-automate-nodejs`](https://github.com/open-wa/wa-automate-nodejs)
+* [`Gimenz`](https://github.com/Gimenz)
 
 
 ### Donasi
