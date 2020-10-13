@@ -1,0 +1,17 @@
+{
+    "name": "simi-bot",
+    "version": "1.0.0",
+    "description": "Whatsapp Bot - Simi bot by Rizka Nugraha",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Rizka Nugraha",
+    "license": "ISC",
+    "dependencies": {
+      "@open-wa/wa-automate": "^2.0.26",
+      "moment-timezone": "^0.5.31",
+      "node-fetch": "^2.6.1"
+    }
+  }
+  
