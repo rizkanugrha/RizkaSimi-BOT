@@ -1,3 +1,4 @@
+## RizkaSimi-BOT
 
 
 ## Clone project
@@ -27,7 +28,7 @@
 
 
 
-## Special Thanks to
+## Matur nuwun :
 * [`open-wa/wa-automate-nodejs`](https://github.com/open-wa/wa-automate-nodejs)
 
 
